@@ -40,15 +40,38 @@ Default PVT LTD is a small company that needs:
 
 |File|Shows|
 |-|-|
-|`01-users-list.png`|All users with department|
-|`02-groups-list.png`|Security groups|
-|`03-group-members.png`|Members of a group|
-|`04-helpdesk-role-assignment.png`|Role assignment page|
-|`05-audit-role-management.png`|Audit log filtered to RoleManagement|
-|`06-audit-details.png`|Actor and target of the role change|
-|`07-security-defaults.png`|Security defaults enabled|
-|`08-guest-accepted.png`|Guest user, invitation state Accepted|
-|`09-app-registration.png`|App registration overview|
+![Users](01-users-list.png)
+*Users created with job title and department.*
+
+![Groups](02-Groups-list.png)
+*Security groups for each department.*
+
+![Group members](03-Group-Members.png)
+*Members added to a group. Access is assigned to groups, not individuals.*
+
+![Helpdesk role](04-helpdesk-role-assignment.png)
+*Helpdesk Administrator assigned instead of Global Admin (least privilege).*
+
+![Audit filter](05-audit-role-management.png)
+*Audit logs filtered to RoleManagement.*
+
+![Audit activity](06-audit-details-AuditLog.png)
+*Event details: who made the change and when.*
+
+![Audit properties](06-audit-details-Modified-Properties.png)
+*Modified properties confirm which role was granted.*
+
+![Audit target](06-audit-details.png)
+*Target of the change: the user who received the role.*
+
+![Security defaults](07-security-defaults.png)
+*Security defaults enabled for baseline MFA.*
+
+![Guest accepted](08-guest-accepted.png)
+*External guest user, invitation state Accepted.*
+
+![App registration](09-app-registration.png)
+*App registration for Contoso-Internal-App.*
 
 \---
 
