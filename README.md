@@ -38,8 +38,6 @@ Default PVT LTD is a small company that needs:
 
 ## Screenshots
 
-|File|Shows|
-|-|-|
 ![Users](01-users-list.png)
 *Users created with job title and department.*
 
